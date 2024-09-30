@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "III",
+        "IRI",
+        "III"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:redstone"
+        },
+       
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "mymod:laser_gun",
+        "count": 1
+    }
+}

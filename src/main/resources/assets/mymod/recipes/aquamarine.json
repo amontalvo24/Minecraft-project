@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        " B ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "mymod:aquamarine_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mymod:aquamarine",
+        "count": 9
+    }
+}

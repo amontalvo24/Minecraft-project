@@ -1,0 +1,34 @@
+//Item
+item.aquamarine.name=Aquamarine 
+item.laser_beam.name=Laser Beam
+
+//Block
+tile.aquamarine_block.name=Aquamarine Block 
+tile.aquamarine_ore.name=Aquamarine Ore
+
+//Weapon
+item.aquamarine_sword.name=Aquamarine Sword
+item.laser_gun.name=Laser Gun
+item.charger_pack.name=Charger Pack
+
+//Tools
+item.aquamarine_pickaxe.name=Aquamarine Pickaxe
+item.aquamarine_shovel.name=Aquamarine Shovel
+item.auquamarine_axe.name=Aquamarine Axe
+item.aquamarine_hoe.name=Aquamarine Hoe
+
+//Food
+item.aquamarine_apple.name= Aquamarine Apple
+
+//Entity
+entity.laser_beam.name=Laser Beam
+
+
+//Tab
+itemGroup.aquamarinetab=Aquamarine 
+
+//Armor
+item.aquamarine_helmet.name=Aquamarine Helmet
+item.aquamarine_chestplate.name=Aquamarine Chestplate
+item.aquamarine_leggings.name=Aquamarine Leggings
+item.aquamarine_boots.name=Aquamarine Boots

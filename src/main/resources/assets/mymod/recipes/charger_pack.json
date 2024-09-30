@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "RR ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraft:redstone"
+        }
+       
+    },
+    
+    "result":
+    {
+        "item": "mymod:charger_pack",
+        "count": 1
+    }
+}
